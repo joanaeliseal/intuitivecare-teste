@@ -15,7 +15,7 @@ Este repositório contém a minha participação no teste técnico proposto pela
 - [x] Substituir abreviações OD e AMB por seus significados completos
 - [x] Compactar em `Teste_{meu_nome}.zip`
 
-### ⚙️ Teste 3 - Banco de Dados
+### ✅ Teste 3 - Banco de Dados
 - [x] Baixar os arquivos da ANS (dados contábeis e operadoras)
 - [x] Criar tabelas no PostgreSQL
 - [x] Importar os dados com encoding correto
@@ -36,7 +36,7 @@ Este repositório contém a minha participação no teste técnico proposto pela
 | Web Scraping | Python (`requests`, `BeautifulSoup`) | Também usei `zipfile` para compactação |
 | Transformação de Dados | Python (`pdfplumber`, `pandas`) | PDFs complexos exigem bibliotecas |
 | Banco de Dados | PostgreSQL 15 | Utilizado via `pgAdmin 4` |
-| API | Python (`Flask`) | Backend simples |
+| API | Python (`FastAPI`) | Backend simples |
 | Interface | Vue.js (CLI) | Integração com a API |
 | Testes de rota | Postman | Documentação e testes |
 
@@ -68,9 +68,8 @@ Alguns testes estão parcialmente implementados devido à curva de aprendizado, 
 
 ## ✍️ Contato
 Caso deseje conversar sobre este projeto ou tenha interesse em ver meu progresso, fico à disposição:
-- **Nome:** [Seu Nome Aqui]
-- **LinkedIn:** [Seu LinkedIn]
-- **E-mail:** [Seu E-mail]
+- **LinkedIn:** https://www.linkedin.com/in/joanaelise/
+- **E-mail:** joanaelise@gmail.com
 
 ---
 
