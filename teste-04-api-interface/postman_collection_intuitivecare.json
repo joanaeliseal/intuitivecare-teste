@@ -1,0 +1,35 @@
+{
+    "info": {
+        "name": "IntuitiveCare - Teste Técnico",
+        "_postman_id": "abc12345-def6-7890-ghij-klmnopqrstuv",
+        "description": "Coleção para testar a API de busca de operadoras de saúde",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Buscar operadora por termo",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://127.0.0.1:8000/buscar?termo=amil",
+                    "protocol": "http",
+                    "host": [
+                        "127.0.0.1"
+                    ],
+                    "port": "8000",
+                    "path": [
+                        "buscar"
+                    ],
+                    "query": [
+                        {
+                            "key": "termo",
+                            "value": "amil"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}

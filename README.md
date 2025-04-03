@@ -68,9 +68,8 @@ Alguns testes estão parcialmente implementados devido à curva de aprendizado, 
 
 ## ✍️ Contato
 Caso deseje conversar sobre este projeto ou tenha interesse em ver meu progresso, fico à disposição:
-- **Nome:** [Seu Nome Aqui]
-- **LinkedIn:** [Seu LinkedIn]
-- **E-mail:** [Seu E-mail]
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joanaelise/)
+- **E-mail:** [Mande um e-mail!](joanaelise@gmail.com) 
 
 ---
 
