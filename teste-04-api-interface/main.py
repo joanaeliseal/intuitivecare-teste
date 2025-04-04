@@ -17,7 +17,8 @@ app.add_middleware(
 )
 
 # Carrega o CSV na inicialização
-df = pd.read_csv("dados/Relatorio_cadop.csv", sep=";", encoding="latin1")
+df = pd.read_csv("dados/Relatorio_cadop.csv", sep=";", encoding="utf-8", encoding_errors="ignore")
+
 
 @app.get("/")
 def root():
