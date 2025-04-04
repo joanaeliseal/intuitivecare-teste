@@ -21,7 +21,7 @@ Este repositório contém a minha participação no teste técnico proposto pela
 - [x] Importar os dados com encoding correto
 - [x] Realizar queries analíticas
 
-### ⚙️ Teste 4 - API com Interface Web
+### ✅ Teste 4 - API com Interface Web
 - [x] Criar backend em Python (Flask)
 - [x] Criar rota de busca textual no CSV de operadoras
 - [x] Integrar com frontend em Vue.js
@@ -37,7 +37,7 @@ Este repositório contém a minha participação no teste técnico proposto pela
 | Transformação de Dados | Python (`pdfplumber`, `pandas`) | PDFs complexos exigem bibliotecas |
 | Banco de Dados | PostgreSQL 15 | Utilizado via `pgAdmin 4` |
 | API | Python (`FastAPI`) | Backend simples |
-| Interface | Vue.js (CLI) | Integração com a API |
+| Interface | Vue.js | Integração com a API |
 | Testes de rota | Postman | Documentação e testes |
 
 ---
@@ -50,8 +50,6 @@ Este desafio técnico foi uma excelente oportunidade de aprender na prática sob
 - Construção de queries SQL com foco em análise de dados
 - Desenvolvimento de uma API REST e integração com frontend Vue.js
 
-Alguns testes estão parcialmente implementados devido à curva de aprendizado, mas todos os passos foram documentados e comentados no código.
-
 ---
 
 ## 📁 Organização do Repositório
@@ -63,14 +61,6 @@ Alguns testes estão parcialmente implementados devido à curva de aprendizado, 
 ├── teste-04-api-interface
 ├── README.md
 ```
-
----
-
-## ✍️ Contato
-Caso deseje conversar sobre este projeto ou tenha interesse em ver meu progresso, fico à disposição:
-- **Nome:** [Seu Nome Aqui]
-- **LinkedIn:** [Seu LinkedIn]
-- **E-mail:** [Seu E-mail]
 
 ---
 
